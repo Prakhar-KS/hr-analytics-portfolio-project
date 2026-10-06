@@ -1,0 +1,14 @@
+data/
+*.pbix
+*.pbit
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.log
+!docs/
+!docs/**
